@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Hand Slicer",
+  "description": "A fruit-slicing game controlled by your hand movements captured through the camera.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
